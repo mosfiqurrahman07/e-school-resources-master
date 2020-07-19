@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 576px;
+    background-color: #F0FFF0;
+}
+.logo-img{
+    width: 200px;
+}
+.collapse ul li{
+    padding: 12px 20px;
+}
+.collapse ul li a{
+    color: black !important;
+    font-size: 16px;
+}
+.button{
+    padding: 12px 28px;
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+.buy-button{
+    padding: 8px 28px;
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+.color-highlight{
+    color: #21B573;
+}
+h1{
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 70px;
+}
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 54px;
+    color: #413960;
+}
+h3{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #413960;
+}
+h6{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+p{
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+}
+.book{
+    text-align: center;
+    width: 270px;
+    height: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.book:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.container, .header{
+    margin-bottom: 100px;
+}
+.card{
+    padding: 15px;
+    border-radius: 18px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.footer{
+    height: 369px;
+    background-color: #282531;
+}
+.course ul{
+    list-style: none;
+}
+.course ul li{
+    list-style: none;
+    line-height: 32px;
+}
+.course ul li a{
+    text-decoration: none;
+    color: white;
+}
+.weidth{
+    font-weight: bold;
+}
